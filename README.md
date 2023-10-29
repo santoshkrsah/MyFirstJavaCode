@@ -1,2 +1,2 @@
 # MyFirstJavaCode
-This code is intended for learning purposes and includes numerous examples.
+This Code is only for Learning purpose and also include lot of example.
