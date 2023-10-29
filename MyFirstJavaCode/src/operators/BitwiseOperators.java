@@ -20,7 +20,7 @@ public class BitwiseOperators {
 
 		// Bitwise NOT (~) operator:
 		result = ~a; // binary: 1010 (decimal: -6)
-		System.out.println(result);
+//		System.out.println(result);
 	}
 
 }
